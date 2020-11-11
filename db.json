@@ -1,0 +1,122 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "notes": [
+{
+            "id": "0",
+            "title": "Basics of CMOS Logic ICs",
+            "desc": "No Description avaliable.",
+            "tags": [{"type":"c","tag":"Toshiba"}, {"type":"g","tag":"Logic"}, {"type":"b","tag":"Beginner"}, {"type":"g","tag":"74 Series"}, {"type":"g","tag":"Digital"}, {"type":"g","tag":"CMOS"}, {"type":"p","tag":"04/2020"}
+],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "1",
+            "title": "CMOS Logic ICs Selection Guide",
+            "desc": "No Description avaliable.",
+            "tags": [{"type":"c","tag":"Toshiba"}, {"type":"g","tag":"CMOS"}, {"type":"p","tag":"03/2020"}, {"type":"b","tag":"Beginner"}, {"type":"g","tag":"Digital"}],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "2",
+            "title": "Basics of Bus Switches",
+            "desc": "No Description avaliable.",
+            "tags": [{"type":"c","tag":"Toshiba"}, {"type":"p","tag":"01/2020"}, {"type":"g","tag":"Bus"}, {"type":"g","tag":"Switch"},{"type":"g","tag":"Digital"}],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "3",
+            "title": "CMOS Logic ICs Usage Considerations",
+            "desc": "No Description avaliable.",
+            "tags": [{"type":"c","tag":"Toshiba"},  {"type":"p","tag":"12/2019"}, {"type":"g","tag":"Digital"}],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "4",
+            "title": "Applications of Low-Voltage One-Gate Logic ICs to Level Shift Circuits",
+            "desc": "No Description avaliable.",
+            "tags": [{"type":"c","tag":"Toshiba"}, {"type":"p","tag":"07/2019"}, {"type":"g","tag":"Digital"}],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "5",
+            "title": "CMOS Logic Ics Standard series",
+            "desc": "No Description avaliable.",
+            "tags": [{"type":"c","tag":"Toshiba"}, {"type":"p","tag":"09/2018"}, {"type":"g","tag":"Digital"}],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "6",
+            "title": "CMOS Logic Ics TC74HC/HCT Series",
+            "desc": "No Description avaliable.",
+            "tags": [],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "7",
+            "title": "CMOS Logic Ics TC74AC/ACT Series",
+            "desc": "No Description avaliable.",
+            "tags": [],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "8",
+            "title": "CMOS Logic Ics TC74VHC/VHCT/VHC9/VHCV Series",
+            "desc": "No Description avaliable.",
+            "tags": [],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "9",
+            "title": "CMOS Logic Ics TC74VCX/LCX Series",
+            "desc": "No Description avaliable.",
+            "tags": [],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        },
+        {
+            "id": "10",
+            "title": "Glossary of CMOS Logic ICs",
+            "desc": "No Description avaliable.",
+            "tags": [],
+            "thumb": "https://via.placeholder.com/78x100",
+            "img": "https://via.placeholder.com/198x256"
+        }
+    ]
+}
